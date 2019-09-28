@@ -11,4 +11,3 @@ namespace Programowanie_3
     }
 }
 
-//Zmiana
