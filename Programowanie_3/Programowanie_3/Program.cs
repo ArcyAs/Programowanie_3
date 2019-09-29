@@ -10,4 +10,3 @@ namespace Programowanie_3
         }
     }
 }
-
