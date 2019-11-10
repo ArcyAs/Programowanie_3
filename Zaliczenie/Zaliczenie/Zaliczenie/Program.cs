@@ -8,8 +8,11 @@ namespace Zaliczenie
 {
     class Program
     {
-        public static void Pierwsze(int x)
+        public static void Pierwsze()
         {
+            
+            string g = Console.ReadLine();
+            int x = Convert.ToInt32(g);
             double y = (2 * (x ^ 3)) - (8 * (x ^ 2)) - (3 * x) + 10;
             Console.WriteLine(y);
         }
@@ -56,7 +59,7 @@ namespace Zaliczenie
         */
         static void Main(string[] args)
         {
-            Pierwsze(20);
+            Pierwsze();
             Drugie(2);
             //Trzecie();
 
