@@ -10,7 +10,7 @@ namespace Zaliczenie
     {
         public static void Pierwsze()
         {
-            
+            Console.WriteLine("Podaj zmienna x:");
             string g = Console.ReadLine();
             int x = Convert.ToInt32(g);
             double y = (2 * (x ^ 3)) - (8 * (x ^ 2)) - (3 * x) + 10;
