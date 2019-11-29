@@ -1,5 +1,6 @@
 ﻿using System;
 using System.ComponentModel;
+using System.Security.Cryptography;
 using System.Security.Cryptography.X509Certificates;
 
 namespace Zaliczenie
@@ -12,44 +13,42 @@ namespace Zaliczenie
         {
             Console.WriteLine("Podaj zmienna x:");
             string g = Console.ReadLine();
-            int x = Convert.ToInt32(g);
-            double y = (2 * (x ^ 3)) - (8 * (x ^ 2)) - (3 * x) + 10;
+            double x = Convert.ToDouble(g);
+            double y = (2 * (Math.Pow(x, 3))) - (8 * (Math.Pow(x,2))) - (3 * x) + 10;
             Console.WriteLine(y);
         }
 
-        public static void  Drugie(int ilosc)
+        public static void  Drugie()
         {
-            
-            string[] x = new string[3];
-            double[] xcon = new double[3];
-            double []sumamies=new double [ilosc];
-            double[] tabelaSum = new double[ilosc];
-            double[] suma = new double[ilosc];
-            for (int i = 1; i < ilosc +2; i++)
+            Console.WriteLine("Podaj rok: ");
+            int rok = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Podaj numer miesiaca: ");
+            int miesiac = Convert.ToInt32(Console.ReadLine());
+            int ilosc = DateTime.DaysInMonth(rok, miesiac);
+            double [] zarobki = new double[ilosc-1];
+            for (int i = 0; i < ilosc-1; i++)
             {
-                Console.WriteLine("Podaj pierwsza kwote:");
-                x[0] = Console.ReadLine();
-                Console.WriteLine("Podaj druga kwote:");
-                x[1] = Console.ReadLine();
-                Console.WriteLine("Podaj trzecia kwote:");
-                x[2] = Console.ReadLine();
-                Console.WriteLine("Podaj czwarta kwote:");
-                x[3] = Console.ReadLine();
-                Console.WriteLine("Koniec dnia");
-                
-                xcon[0] =Convert.ToDouble(x[0]); 
-                xcon[1] =Convert.ToDouble(x[1]);
-                xcon[2] =Convert.ToDouble(x[2]);
-                xcon[3] =Convert.ToDouble(x[3]);
-                
-                suma[i] = xcon[0]+xcon[1]+xcon[2]+xcon[3];
+                Random random = new Random();
+                int r = random.Next(300, 4000);
+                double wynik = r ;
+                zarobki[i] = wynik;
             }
 
-            for (int i = 1; i < ilosc+2; i++)
+            double sumaDo;
+            double[] suma = new double[ilosc];
+            for (int i = 0; i < ilosc-1; i++)
             {
-                sumamies[i] = sumamies[i - 1] + suma[i];
+                if (i == 0)
+                {
+                    suma[i] = zarobki[i];
+                }
+                else
+                {
+                    suma[i] = suma[i - 1] + zarobki[i];
+                }
+                
             }
-            
+            Array.ForEach(suma, Console.WriteLine);
         }
 
         /*public static void Trzecie()
@@ -60,7 +59,7 @@ namespace Zaliczenie
         static void Main(string[] args)
         {
             Pierwsze();
-            Drugie(2);
+            Drugie();
             //Trzecie();
 
         }
