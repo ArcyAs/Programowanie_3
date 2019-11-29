@@ -36,8 +36,6 @@ namespace Zaliczenie
                 double wynik = r ;
                 zarobki[i] = wynik;
             }
-
-            double sumaDo;
             double[] suma = new double[ilosc];
             for (int i = 0; i < ilosc-1; i++)
             {
@@ -58,19 +56,15 @@ namespace Zaliczenie
         {
             int[][] poszarpana = new int [3][]
             {
-                new int[] {2, 6, 8, 12, 3},
+                new int[] {2, 6, 8, 7},
                 new int[] {3, 4, 7},
-                new int[] {2, 1, 13, 78, 43, 15, 2, 3, 0}
+                new int[] {2, 1, 13,8,9},
             };
-            int[,] prostokatna = new int [3, 9];
-            for (int i = 0; i <3; i++)
+            int [,] prostokatna = new int [3,8];
+            for (int i = 0; i <poszarpana.GetLength(0); i++)
             {
-                for (int j = 0; j <9; j++)
+                for (int j = 0; j < poszarpana.GetLength(1); j++)
                 {
-                    if (poszarpana[i][j]==)
-                    {
-                        prostokatna[i, j] = poszarpana[i][j];
-                    }
                     prostokatna[i, j] = poszarpana[i][j];
                     Console.WriteLine(prostokatna[i,j]);
                 }
