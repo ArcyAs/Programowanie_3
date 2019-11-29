@@ -60,16 +60,32 @@ namespace Zaliczenie
                 new int[] {3, 4, 7},
                 new int[] {2, 1, 13,8,9},
             };
-            int [,] prostokatna = new int [3,8];
-            for (int i = 0; i <poszarpana.GetLength(0); i++)
+            int[,] prostokatna = new int [3, 8]
             {
-                for (int j = 0; j < poszarpana.GetLength(1); j++)
+                {0, 0, 0, 0, 0, 0, 0, 0},
+                {0, 0, 0, 0, 0, 0, 0, 0},
+                {0, 0, 0, 0, 0, 0, 0, 0}
+            };
+            for (int i = 0; i <3; i++)
+            {
+                if (poszarpana.GetLength(1) < prostokatna.GetLength(1))
                 {
-                    prostokatna[i, j] = poszarpana[i][j];
-                    Console.WriteLine(prostokatna[i,j]);
+                    for (int j = 0; j < poszarpana.GetLength(1); j++)
+                    {
+                        prostokatna[i, j] = poszarpana[i][j];
+                        Console.WriteLine(prostokatna[i, j]);
+                    }
+                }
+                else
+                {
+                    for (int j = poszarpana.GetLength(1); j< prostokatna.GetLength(1); j++)
+                    {
+                        prostokatna[i,j] = 0;
+                        Console.WriteLine(prostokatna[i, j]);
+                    }
+                    
                 }
             }
-
         }
         
         static void Main(string[] args)
