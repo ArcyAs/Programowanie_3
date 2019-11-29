@@ -1,5 +1,6 @@
 ﻿using System;
 using System.ComponentModel;
+using System.ComponentModel.DataAnnotations;
 using System.Dynamic;
 using System.Linq;
 using System.Reflection;
@@ -54,13 +55,23 @@ namespace Zaliczenie
 
         public static void Trzecie()
         {
+            int y= new int();
             int[][] poszarpana =
             {
                 new int[] {2, 6, 8, 7},
                 new int[] {3, 4, 7},
                 new int[] {2, 1, 13,8,9},
             };
-            int[,] prostokatna = new int [3, 8];
+            int[] ilosc = new int[poszarpana.Length];
+            for (int i = 0; i < poszarpana.Length; i++)
+            {
+                ilosc[i] = poszarpana[i].Length;
+                if (y<ilosc[i])
+                {
+                    y = ilosc[i];
+                }
+            }
+            int[,] prostokatna = new int [poszarpana.Length,y];
 
             for (int i = 0; i < poszarpana.GetLength(0); i++)
             {
