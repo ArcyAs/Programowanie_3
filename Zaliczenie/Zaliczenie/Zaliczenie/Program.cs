@@ -1,5 +1,8 @@
 ﻿using System;
 using System.ComponentModel;
+using System.Dynamic;
+using System.Linq;
+using System.Reflection;
 using System.Security.Cryptography;
 using System.Security.Cryptography.X509Certificates;
 
@@ -51,16 +54,35 @@ namespace Zaliczenie
             Array.ForEach(suma, Console.WriteLine);
         }
 
-        /*public static void Trzecie()
+        public static void Trzecie()
         {
-             double [][1] cos = new double [2][1]
+            int[][] poszarpana = new int [3][]
+            {
+                new int[] {2, 6, 8, 12, 3},
+                new int[] {3, 4, 7},
+                new int[] {2, 1, 13, 78, 43, 15, 2, 3, 0}
+            };
+            int[,] prostokatna = new int [3, 9];
+            for (int i = 0; i <3; i++)
+            {
+                for (int j = 0; j <9; j++)
+                {
+                    if (poszarpana[i][j]==)
+                    {
+                        prostokatna[i, j] = poszarpana[i][j];
+                    }
+                    prostokatna[i, j] = poszarpana[i][j];
+                    Console.WriteLine(prostokatna[i,j]);
+                }
+            }
+
         }
-        */
+        
         static void Main(string[] args)
         {
-            Pierwsze();
-            Drugie();
-            //Trzecie();
+            //Pierwsze();
+            //Drugie();
+            Trzecie();
 
         }
     }
