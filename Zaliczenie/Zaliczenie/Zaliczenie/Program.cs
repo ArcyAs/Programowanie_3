@@ -54,37 +54,23 @@ namespace Zaliczenie
 
         public static void Trzecie()
         {
-            int[][] poszarpana = new int [3][]
+            int[][] poszarpana =
             {
                 new int[] {2, 6, 8, 7},
                 new int[] {3, 4, 7},
                 new int[] {2, 1, 13,8,9},
             };
-            int[,] prostokatna = new int [3, 8]
+            int[,] prostokatna = new int [3, 8];
+
+            for (int i = 0; i < poszarpana.GetLength(0); i++)
             {
-                {0, 0, 0, 0, 0, 0, 0, 0},
-                {0, 0, 0, 0, 0, 0, 0, 0},
-                {0, 0, 0, 0, 0, 0, 0, 0}
-            };
-            for (int i = 0; i <3; i++)
-            {
-                if (poszarpana.GetLength(1) < prostokatna.GetLength(1))
-                {
-                    for (int j = 0; j < poszarpana.GetLength(1); j++)
+                int x = poszarpana[i].Length;
+                    for (int k = 0; k < x; k++)
                     {
-                        prostokatna[i, j] = poszarpana[i][j];
-                        Console.WriteLine(prostokatna[i, j]);
+                        prostokatna[i, k] = poszarpana[i][k];
+                        Console.WriteLine(prostokatna[i,k]);
                     }
-                }
-                else
-                {
-                    for (int j = poszarpana.GetLength(1); j< prostokatna.GetLength(1); j++)
-                    {
-                        prostokatna[i,j] = 0;
-                        Console.WriteLine(prostokatna[i, j]);
-                    }
-                    
-                }
+                
             }
         }
         
