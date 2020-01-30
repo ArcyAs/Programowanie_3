@@ -1,1 +1,3 @@
-﻿/Zjazd4/.idea/.gitignore
+﻿/obj/
+/bin/
+/.idea/
