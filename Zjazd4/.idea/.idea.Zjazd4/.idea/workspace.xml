@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1cdefd84-a25e-4989-b805-d2b4a8a6df6a" name="Default Changelist" comment="Cos">
-      <change afterPath="$PROJECT_DIR$/Zjazd4/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zjazd4/Zjazd4.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Zjazd4/Zjazd4.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Zjazd4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Zjazd4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zjazd4/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Zjazd4/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580410412884</updated>
-      <workItem from="1580410415045" duration="205000" />
+      <workItem from="1580410415045" duration="311000" />
     </task>
     <task id="LOCAL-00001" summary="Cos">
       <created>1580410479125</created>
@@ -94,7 +94,21 @@
       <option name="project" value="LOCAL" />
       <updated>1580410539094</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Cos">
+      <created>1580410626222</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1580410626222</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Cos">
+      <created>1580410658379</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1580410658379</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,10 +132,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Cos" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="726" y="273" key="Vcs.Push.Dialog.v2" timestamp="1580410482551">
+    <state x="726" y="273" key="Vcs.Push.Dialog.v2" timestamp="1580410660466">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="726" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580410482551" />
+    <state x="726" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580410660466" />
     <state x="943" y="468" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580410646359">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
