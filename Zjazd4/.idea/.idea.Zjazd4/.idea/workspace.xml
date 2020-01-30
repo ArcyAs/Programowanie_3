@@ -12,6 +12,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Zjazd4/Program.cs" root0="FORCE_HIGHLIGHTING" />
@@ -78,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580410412884</updated>
-      <workItem from="1580410415045" duration="371000" />
+      <workItem from="1580410415045" duration="753000" />
     </task>
     <task id="LOCAL-00001" summary="Cos">
       <created>1580410479125</created>
@@ -115,7 +116,21 @@
       <option name="project" value="LOCAL" />
       <updated>1580410733403</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Cos">
+      <created>1580410791692</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1580410791692</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Cos">
+      <created>1580410893633</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1580410893633</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,13 +154,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="Cos" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="726" y="273" key="Vcs.Push.Dialog.v2" timestamp="1580410793349">
+    <state x="726" y="273" key="Vcs.Push.Dialog.v2" timestamp="1580410895676">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="726" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580410793349" />
-    <state x="943" y="468" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580410646359">
+    <state x="726" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580410895676" />
+    <state x="943" y="468" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580411174703">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="943" y="468" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580410646359" />
+    <state x="943" y="468" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580411174703" />
   </component>
 </project>
