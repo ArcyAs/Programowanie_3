@@ -10,6 +10,5 @@ namespace Zjazd8
         {
             Color = c;
         }
-        
     }
 }

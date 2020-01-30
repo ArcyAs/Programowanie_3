@@ -4,7 +4,7 @@
     {
         public string Color;
         public double Level;
-        
+
         public Ink(string color, double level)
         {
             color = color;
