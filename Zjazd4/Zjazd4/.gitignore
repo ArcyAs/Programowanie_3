@@ -1,8 +1,9 @@
 ﻿﻿# Common IntelliJ Platform excludes
 
 # User specific
-.idea
-.idea/
+obj
+/.idea
+/.idea/
 tasks.xml
 .idea/shelf/*
 .idea/dictionaries
