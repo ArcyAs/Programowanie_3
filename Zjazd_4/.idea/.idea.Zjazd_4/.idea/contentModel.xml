@@ -7,6 +7,7 @@
     <e p="C:\Users\seril\RiderProjects\Programowanie_3\Zjazd_4" t="IncludeFlat">
       <e p="packages" t="ExcludeRecursive" />
       <e p="Zjazd_4" t="IncludeRecursive">
+        <e p=".gitignore" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
