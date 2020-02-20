@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c792145d-1b3e-4a02-b3a2-a8a3cc4cd063" name="Default Changelist" comment="v8" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Zjazd8/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Zjazd8/OutofpaperEventArgs.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Zjazd8/Out_of_Ink_EventArgs.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Zjazd8/Printer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Zjazd8/Ink.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Zjazd8/Program.cs" />
+        <option value="$PROJECT_DIR$/Zjazd8/Out_of_Ink_EventArgs.cs" />
+        <option value="$PROJECT_DIR$/../.git/info/exclude" />
+        <option value="$PROJECT_DIR$/Zjazd8/Ink.cs" />
+        <option value="$PROJECT_DIR$/Zjazd8/Printer.cs" />
+        <option value="$PROJECT_DIR$/Zjazd8/OutofpaperEventArgs.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X8102yFVFYysKTbKsLTLAVIeFw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.4" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Zjazd8" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Zjazd8/Zjazd8.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c792145d-1b3e-4a02-b3a2-a8a3cc4cd063" name="Default Changelist" comment="" />
+      <created>1580412681224</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580412681224</updated>
+      <workItem from="1580412683303" duration="856000" />
+      <workItem from="1580822690599" duration="244000" />
+      <workItem from="1580994398123" duration="224000" />
+      <workItem from="1581511646362" duration="8000" />
+    </task>
+    <task id="LOCAL-00001" summary="v8">
+      <created>1580413183001</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580413183001</updated>
+    </task>
+    <task id="LOCAL-00002" summary="v8">
+      <created>1580413197367</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580413197367</updated>
+    </task>
+    <task id="LOCAL-00003" summary="v8">
+      <created>1580413287579</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1580413287579</updated>
+    </task>
+    <task id="LOCAL-00004" summary="v8">
+      <created>1580413366368</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1580413366368</updated>
+    </task>
+    <task id="LOCAL-00005" summary="v8">
+      <created>1580413437969</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1580413437969</updated>
+    </task>
+    <task id="LOCAL-00006" summary="v8">
+      <created>1580413474789</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1580413474789</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="v8" />
+    <option name="LAST_COMMIT_MESSAGE" value="v8" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="716" y="350" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1" timestamp="1580413467897">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="716" y="350" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1/0.0.1920.1040@0.0.1920.1040" timestamp="1580413467897" />
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom" timestamp="1580994621812">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580994621812" />
+    <state width="1340" height="266" key="GridCell.Tab.0.center" timestamp="1580994621811">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580994621811" />
+    <state width="1340" height="266" key="GridCell.Tab.0.left" timestamp="1580994621811">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580994621811" />
+    <state width="1340" height="266" key="GridCell.Tab.0.right" timestamp="1580994621812">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580994621812" />
+    <state x="561" y="235" key="Rider.ProjectTemplateDialog.Size" timestamp="1580822846370">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="561" y="235" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1040@0.0.1920.1040" timestamp="1580822846370" />
+    <state x="679" y="194" key="RiderGenerateDialog" timestamp="1580994593973">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="679" y="194" key="RiderGenerateDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580994593973" />
+    <state x="561" y="225" key="Vcs.Push.Dialog.v2" timestamp="1580413475989">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="561" y="225" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580413475989" />
+  </component>
+</project>
