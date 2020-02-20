@@ -12,11 +12,11 @@ namespace Zjazd_4
         }
         private static void Main(string[] args)
         {
-            int[] pierwsza = {1, 2, 3};
+            int[] pierwsza = {6, 9, 12};
             int[] druga = Kopiuj(pierwsza);
             for (int i = 0; i < pierwsza.Length; i++) 
                 Console.WriteLine(druga[i] + ",");
-            int[] x = {1, 2, 3, 4, 5, 6};
+            int[] x = {4, 8, 12, 16, 20, 24};
             int[] y = new int [x.Length];
             for (int i = 0; i < x.Length; i++) 
                 y[i] = x[i];
