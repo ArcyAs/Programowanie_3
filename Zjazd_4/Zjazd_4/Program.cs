@@ -1,6 +1,5 @@
 ﻿using System;
 
-
 namespace Zjazd_4
 {
     class Program
