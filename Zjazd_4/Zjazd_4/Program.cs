@@ -7,7 +7,8 @@ namespace Zjazd_4
         private static int[] Kopiuj(int[] tablica)
         {
             int[] kopia = new int[tablica.Length];
-            for (int i = 0; i < tablica.Length; i++) kopia[i] = tablica[i];
+            for (int i = 0; i < tablica.Length; i++) 
+                kopia[i] = tablica[i];
             return kopia;
         }
         private static void Main(string[] args)
