@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "MN_Z3/1.0.0": {
+        "runtime": {
+          "MN_Z3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MN_Z3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

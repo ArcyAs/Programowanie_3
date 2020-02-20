@@ -1,0 +1,11 @@
+C:\Users\seril\RiderProjects\Programowanie_3\MN_Z3\MN_Z3\bin\Debug\netcoreapp3.0\MN_Z3.exe
+C:\Users\seril\RiderProjects\Programowanie_3\MN_Z3\MN_Z3\bin\Debug\netcoreapp3.0\MN_Z3.deps.json
+C:\Users\seril\RiderProjects\Programowanie_3\MN_Z3\MN_Z3\bin\Debug\netcoreapp3.0\MN_Z3.runtimeconfig.json
+C:\Users\seril\RiderProjects\Programowanie_3\MN_Z3\MN_Z3\bin\Debug\netcoreapp3.0\MN_Z3.runtimeconfig.dev.json
+C:\Users\seril\RiderProjects\Programowanie_3\MN_Z3\MN_Z3\bin\Debug\netcoreapp3.0\MN_Z3.dll
+C:\Users\seril\RiderProjects\Programowanie_3\MN_Z3\MN_Z3\bin\Debug\netcoreapp3.0\MN_Z3.pdb
+C:\Users\seril\RiderProjects\Programowanie_3\MN_Z3\MN_Z3\obj\Debug\netcoreapp3.0\MN_Z3.csprojAssemblyReference.cache
+C:\Users\seril\RiderProjects\Programowanie_3\MN_Z3\MN_Z3\obj\Debug\netcoreapp3.0\MN_Z3.AssemblyInfoInputs.cache
+C:\Users\seril\RiderProjects\Programowanie_3\MN_Z3\MN_Z3\obj\Debug\netcoreapp3.0\MN_Z3.AssemblyInfo.cs
+C:\Users\seril\RiderProjects\Programowanie_3\MN_Z3\MN_Z3\obj\Debug\netcoreapp3.0\MN_Z3.dll
+C:\Users\seril\RiderProjects\Programowanie_3\MN_Z3\MN_Z3\obj\Debug\netcoreapp3.0\MN_Z3.pdb

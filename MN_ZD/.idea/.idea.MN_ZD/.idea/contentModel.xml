@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\seril\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\seril\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_MN_ZD.113269089.00" t="ExcludeRecursive" />
+    <e p="C:\Users\seril\RiderProjects\Programowanie_3\MN_ZD" t="IncludeFlat">
+      <e p="MN_ZD" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="MN_ZD.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="MN_ZD.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Z_19_RN_Kajstura_Adam.cs" t="Include" />
+      </e>
+      <e p="MN_ZD.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

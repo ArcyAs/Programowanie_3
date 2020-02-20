@@ -1,0 +1,56 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\seril\\RiderProjects\\Programowanie_3\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+    "projectName": "ConsoleApp2",
+    "projectPath": "C:\\Users\\seril\\RiderProjects\\Programowanie_3\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+    "outputPath": "C:\\Users\\seril\\RiderProjects\\Programowanie_3\\ConsoleApp2\\ConsoleApp2\\obj\\",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp3.0"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.0": {
+      "dependencies": {
+        "RandomDataGenerator.Net": {
+          "target": "Package",
+          "version": "[1.0.11-preview-01, )"
+        },
+        "RandomDateGenerator": {
+          "target": "Package",
+          "version": "[1.0.0, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true,
+      "frameworkReferences": {
+        "Microsoft.NETCore.App": {
+          "privateAssets": "all"
+        }
+      },
+      "runtimeIdentifierGraphPath": "C:\\Users\\seril\\.dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+    }
+  }
+}

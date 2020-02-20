@@ -1,0 +1,15 @@
+C:\Users\seril\RiderProjects\Programowanie_3\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.0\ConsoleApp2.exe
+C:\Users\seril\RiderProjects\Programowanie_3\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.0\ConsoleApp2.deps.json
+C:\Users\seril\RiderProjects\Programowanie_3\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.0\ConsoleApp2.runtimeconfig.json
+C:\Users\seril\RiderProjects\Programowanie_3\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.0\ConsoleApp2.runtimeconfig.dev.json
+C:\Users\seril\RiderProjects\Programowanie_3\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.0\ConsoleApp2.dll
+C:\Users\seril\RiderProjects\Programowanie_3\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.0\ConsoleApp2.pdb
+C:\Users\seril\RiderProjects\Programowanie_3\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.0\Fare.dll
+C:\Users\seril\RiderProjects\Programowanie_3\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.0\RandomDataGenerator.dll
+C:\Users\seril\RiderProjects\Programowanie_3\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.0\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\seril\RiderProjects\Programowanie_3\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.0\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\seril\RiderProjects\Programowanie_3\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.0\ConsoleApp2.AssemblyInfo.cs
+C:\Users\seril\RiderProjects\Programowanie_3\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.0\ConsoleApp2.csproj.CopyComplete
+C:\Users\seril\RiderProjects\Programowanie_3\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.0\ConsoleApp2.dll
+C:\Users\seril\RiderProjects\Programowanie_3\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.0\ConsoleApp2.pdb
+C:\Users\seril\RiderProjects\Programowanie_3\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.0\RandomDateGenerator.dll

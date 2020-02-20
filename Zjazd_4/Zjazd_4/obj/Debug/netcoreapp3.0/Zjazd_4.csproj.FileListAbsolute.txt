@@ -1,0 +1,11 @@
+C:\Users\seril\RiderProjects\Programowanie_3\Zjazd_4\Zjazd_4\bin\Debug\netcoreapp3.0\Zjazd_4.exe
+C:\Users\seril\RiderProjects\Programowanie_3\Zjazd_4\Zjazd_4\bin\Debug\netcoreapp3.0\Zjazd_4.deps.json
+C:\Users\seril\RiderProjects\Programowanie_3\Zjazd_4\Zjazd_4\bin\Debug\netcoreapp3.0\Zjazd_4.runtimeconfig.json
+C:\Users\seril\RiderProjects\Programowanie_3\Zjazd_4\Zjazd_4\bin\Debug\netcoreapp3.0\Zjazd_4.runtimeconfig.dev.json
+C:\Users\seril\RiderProjects\Programowanie_3\Zjazd_4\Zjazd_4\bin\Debug\netcoreapp3.0\Zjazd_4.dll
+C:\Users\seril\RiderProjects\Programowanie_3\Zjazd_4\Zjazd_4\bin\Debug\netcoreapp3.0\Zjazd_4.pdb
+C:\Users\seril\RiderProjects\Programowanie_3\Zjazd_4\Zjazd_4\obj\Debug\netcoreapp3.0\Zjazd_4.csprojAssemblyReference.cache
+C:\Users\seril\RiderProjects\Programowanie_3\Zjazd_4\Zjazd_4\obj\Debug\netcoreapp3.0\Zjazd_4.AssemblyInfoInputs.cache
+C:\Users\seril\RiderProjects\Programowanie_3\Zjazd_4\Zjazd_4\obj\Debug\netcoreapp3.0\Zjazd_4.AssemblyInfo.cs
+C:\Users\seril\RiderProjects\Programowanie_3\Zjazd_4\Zjazd_4\obj\Debug\netcoreapp3.0\Zjazd_4.dll
+C:\Users\seril\RiderProjects\Programowanie_3\Zjazd_4\Zjazd_4\obj\Debug\netcoreapp3.0\Zjazd_4.pdb
